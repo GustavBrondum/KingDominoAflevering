@@ -1,0 +1,4 @@
+Python==3.14.3
+numpy==2.4.4
+opencv_python==4.13.0.92
+pandas==3.0.2
